@@ -20,13 +20,17 @@
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="darth-vader" height="150" style="border-radius:50px;" 
 src="https://media.discordapp.net/attachments/972619949006815232/1008875880090697868/darth-vader.gif">
-                                                                                                                                     
-</div>
+</div>                                                                                                                                     
 
 ##
 
+<div>
   <a href="linkedin.com/in/alexsander-furtado-2b7448165" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alexsander.f.lex@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alexsander.furtado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-                                                                                                     
+##
+
+![Snake animation](https://github.com/AvengerX8/AvengerX8/blob/output/github-contribution-grid-snake.svg)
+
+</div>
