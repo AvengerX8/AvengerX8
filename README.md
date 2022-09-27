@@ -1,6 +1,6 @@
 ### Hello World!🛸 Eu sou Alexsander, estudante de programação.💻🎓
 
-- 🔭 Trabalho atualmente em uma empresa de Cibersegurança na área Comercial (Estou migrando de setor).
+- 🔭 Trabalho atualmente em uma Software House na área Comercial (Estou migrando de setor).
 - 🌱 Estou cursando Desenvolvimento de Sistemas, e estou aprendendo Desenvolvimento Web em cursos extras.
 - 🤔 Procuro aprender com a comunidade e crescer na carreira de Dev.
 - 😄 Pronomes: Ele/Dele
