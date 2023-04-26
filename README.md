@@ -1,6 +1,6 @@
 ### Hello World!🛸 Eu sou Alexsander, estudante de programação.💻🎓
 
-- 💼 Trabalho atualmente em uma Software House na área Comercial (Estou migrando de setor).
+- 💼 Programador Júnior💻.
 - 📚 Estou cursando Engenharia de Software, e estou aprendendo Programação em cursos extras.
 - 🔍 Procuro aprender com a comunidade e crescer na carreira de Dev.
 - ⚡ Movido a café!☕
