@@ -33,6 +33,6 @@ src="https://media.discordapp.net/attachments/972619949006815232/100887588009069
 
 ##
 
-![Snake animation](https://github.com/AvengerX8/AvengerX8/blob/output/github-contribution-grid-snake.svg)
+![Pacman](https://raw.githubusercontent.com/AvengerX8/AvengerX8/output/github-snake.svg)
 
 </div>
