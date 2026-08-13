@@ -1,10 +1,17 @@
-### Hello World!🛸 Eu sou Alexsander, estudante de programação.💻🎓
+# Hey there, I'm Alexsander 👋
 
-- 💼 Programador Júnior💻.
-- 📚 Estou cursando Engenharia de Software, e estou aprendendo Programação em cursos extras.
-- 🔍 Procuro aprender com a comunidade e crescer na carreira de Dev.
-- ⚡ Movido a café!☕
+Full Stack Developer at Customax Tecnologia, building SaaS products with
+**React, Next.js, Node.js and TypeScript** — plus a fair amount of legacy
+ERP integration work in Caché ObjectScript (yes, the Outer Rim of tech stacks).
 
+- 🎓 Software Engineering @ Católica de Santa Catarina (2024–2028)
+- 🧰 React · Next.js · Angular · Node · TypeScript · Docker · PostgreSQL
+- 💼 4+ years in sales before code — I speak both "stakeholder" and "stack trace"
+- 🤖 Currently tinkering with AI-powered side projects (Gemini API)
+- ⭐ Star Wars nerd. My code compiles on the first try about as often as
+  the Millennium Falcon's hyperdrive works.
+
+> "In my experience, there is no such thing as luck." — Obi-Wan Kenobi
 
 <div align="center">
   <a href="https://github.com/AvengerX8">
