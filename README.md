@@ -1,4 +1,4 @@
-# Hey there, I'm Alexsander 👋
+# Hello there, I'm Alexsander 👋
 
 Full Stack Developer at Customax Tecnologia, building SaaS products with
 **React, Next.js, Node.js and TypeScript** — plus a fair amount of legacy
